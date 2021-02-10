@@ -1,1 +1,1 @@
-# mastering-rust
+# Mastering Rust - Second Edition
